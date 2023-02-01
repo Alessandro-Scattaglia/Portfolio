@@ -1,0 +1,54 @@
+body {
+  background-image: url("sfondo.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+
+}
+
+
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: rgb(22, 218, 22);
+  color: black;
+
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  float: left;
+  background-color: rgb(22, 218, 22);
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+  text-shadow: 2px 2px 4px black;
+}
+
+.intro {
+  text-align: left;
+  text-align: justify;
+  
+}
+
+.presenta {
+  text-align: right;
+  text-align: justify;
+
+
+}
