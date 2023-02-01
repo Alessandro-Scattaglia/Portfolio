@@ -1,5 +1,5 @@
 body {
-  background-image: url("sfondo.jpeg");
+  background-image: url("/img/sfondo.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
 
@@ -40,10 +40,10 @@ h1 {
   text-shadow: 2px 2px 4px black;
 }
 
-.intro {
+.first {
   text-align: left;
   text-align: justify;
-  
+
 }
 
 .presenta {
@@ -51,4 +51,20 @@ h1 {
   text-align: justify;
 
 
+}
+
+.spazio {
+  width: 180px;
+
+}
+
+.logo {
+  text-align: left;
+  padding-top: 0px;
+  max-width: 111px;
+
+}
+
+.video {
+  margin-right: 60px;
 }
